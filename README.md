@@ -78,7 +78,7 @@ First, I created a second HTML file and followed what I saw in the documentation
 
 After that, I started adding elements to renderer.js, and I also created preload.js and style.css. Once everything was finished, it was easy to run the project. However, I discovered that both pages were connected. Soon I realized that it was because of how I made the style and the other functions that affected the entire system and the theme of the pages.
 
-Even though I learned how it works, since I am still learning, I will keep the project saved like this. In future projects, I plan to make improvements based on this detail.
+Just like I mentioned in my last project, I changed this and modified the styles and the functions in the JavaScript files so that the theme would not affect the entire project, including the window based on index.html. This allowed me to finally separate the windows and also make some improvements to the style of the second one to better differentiate it.
 
 ------------------------------------TRADUÇÃO-------------------------------------------------
 
@@ -168,4 +168,4 @@ Primeiro comecei criando um segundo html e me baseando no que eu via na document
 
 Após isso, fui adicionando elementos ao renderer.js e criei o preload.js e o style.css, com tudo finalizado, foi fácil rodar, porém descobri que ambas as páginas estavam ligadas e logo vi que era por causa do modo que fiz o style e as outras funções que pegavam todo o sistema, todo o tema das páginas.
 
-Porém mesmo que eu tenha aprendido isso, por eu estar aprendendo ainda o Electron, vou salvar o projeto assim e nos próximos farei alterações baseadas nesse detalhe.
+E tal qual como eu falei no meu último projeto, eu mudei isso e mexi no style e nas funções nos js para que não pegue o tema de todo o projeto incluindo a janela baseada no index.html, assim eu pude finalmente dividir as janelas e também fazer algumas melhorias no estilo da segunda para diferenciar.
